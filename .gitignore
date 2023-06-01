@@ -1,0 +1,16 @@
+# Node.js
+/node_modules
+
+# Build files
+/public/build
+
+# IDE files
+/.vscode
+/.idea
+
+# Log files
+/*.log
+
+# Environment variables
+/.env
+/.env.local
